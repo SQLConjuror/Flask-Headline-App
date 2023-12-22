@@ -1,8 +1,5 @@
 # Flask-Headline-App
 
-## Introduction
-This application is a simple but cool To-Do App
-
 ## Steps to Launch the App
 1. Install Python3.
 ```
